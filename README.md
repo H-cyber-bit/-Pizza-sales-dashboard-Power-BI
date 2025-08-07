@@ -27,7 +27,7 @@ The dataset includes four CSV files simulating real-world pizza sales:
 
 Imported the dataset into Power BI and structured the model using a **star schema**.
 
-**Cleaning & Transformation Highlights:**
+**Cleaning & Transformation Highlights:
 - Handled nulls, duplicates, and data type mismatches
 - Standardized category and size names
 - Created **relationships** using pizza ID and order ID
@@ -75,10 +75,6 @@ The final dashboard includes:
 * 📅 **Monthly Order Trend** (area chart)
 * 🧭 Interactive slicers: Date, Category, Pizza Size
 
- 🎨 Dashboard Preview
-
-> ![Pizza Sales Dashboard](Pizza Sales Dashboard Power Bi.jpg
-)
 
 ---
  🔍 Key Business Insights
