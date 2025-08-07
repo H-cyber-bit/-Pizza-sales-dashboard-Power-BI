@@ -4,9 +4,9 @@ An end-to-end business intelligence project where raw sales data is transformed 
 
 This dashboard highlights revenue trends, customer preferences, and operational performance of a fictional pizza chain — designed to support smarter business decisions through **interactive visual storytelling**.
 
----
 
-## 📊 Dataset Overview
+
+ 📊 Dataset Overview
 
 The dataset includes four CSV files simulating real-world pizza sales:
 
@@ -77,7 +77,8 @@ The final dashboard includes:
 
  🎨 Dashboard Preview
 
-> ![Pizza Sales Dashboard](./assets/dashboard-preview.png)
+> ![Pizza Sales Dashboard](Pizza Sales Dashboard Power Bi.jpg
+)
 
 ---
  🔍 Key Business Insights
